@@ -236,7 +236,7 @@ const projects = [
   {
     name: "Bulls Call",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+     "Candle betting app deployed on polygon network. Users can bet on the price of crypto assets whether it will go up or down. Implemented chainlink automation.",
     tags: [
       {
         name: "solidity",
